@@ -1,1 +1,2 @@
-# Neurosky_Mindwave-operating-codebase
+# Neurosky Mindwave Operating Codebase
+
